@@ -2,7 +2,7 @@
 # defaults file for aws-cloudigrade-cloudtrail
 state: present
 bucket_name: "{{ aws_prefix }}-cloudigrade-s3"
-sqs_name: "{{ aws_prefix }}-cloudigrade-sqs"
+sqs_name: "{{ aws_prefix }}-cloudigrade-cloudtrail-sqs"
 aws_region: us-east-1
 bucket_state: "{{ state }}"
 sqs_state: "{{ state }}"
