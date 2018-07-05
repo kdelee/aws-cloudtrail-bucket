@@ -1,4 +1,4 @@
-Role Name
+aws-cloudtrail-bucket
 =========
 
 This role can create and delete the s3 bucket and sqs queue needed to allow
