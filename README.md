@@ -8,7 +8,7 @@ indicate objects have been created in the bucket.
 Requirements
 ------------
 
-This module assumes that /usr/bin/python can import boto3 and that the aws cli is installed and in your path.
+This module assumes that `/usr/bin/env python` (whatever `python` is in your current environment) can import boto3 and that the aws cli is installed and in your path.
 
 Role Variables
 --------------

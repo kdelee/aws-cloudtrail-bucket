@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 """Simple CLI program to create a notification from a bucket to a queue."""
 
 import argparse
